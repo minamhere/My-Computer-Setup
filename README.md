@@ -1,27 +1,28 @@
-My Computer Setup:
+# My Computer Setup:
 
-	Applications To Install
-	Dropbox
-	Flux
-	1Password
-	BetterTouchTool
-	MacID
-	Alfred
-	Coconut Battery
-	CoRD
-	Firefox
-	Chrome
-	Office
-	Paprika
-	RDM
-	Sublime Text
-	Github
+## Applications To Install
+* Dropbox
+* Flux
+* 1Password
+* BetterTouchTool
+* MacID
+* Alfred
+* Coconut Battery
+* CoRD
+* Firefox
+* Chrome
+* Office
+* Paprika
+* RDM
+* Sublime Text
+* Github
 
-Configuration, Setup, and Customization:
+## Configuration, Setup, and Customization:
 
-	OS X Settings:
+	### OS X Settings:
 
-	Retina Display Configuration:
+	### Retina Display Configuration:
 
-	Sublime Text Configuration:
+	### Sublime Text Configuration:
+		http://stackoverflow.com/a/7693609
 

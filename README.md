@@ -6,6 +6,7 @@
 * [1Password](https://agilebits.com/downloads)
   * License is saved in the 1Password database. Double click it to apply.
 * [BetterTouchTool](http://www.bettertouchtool.net)
+  * Import Config from this repo.
 * [MacID](http://macid.co)
 * [Alfred](http://www.alfredapp.com)
 * [Coconut Battery](http://www.coconut-flavour.com/coconutbattery/)
@@ -17,7 +18,9 @@
   * Download from Mac App Store
 * [RDM](https://dl.dropbox.com/u/87351306/RDM.tar.gz)
   * [Reddit Discussion](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
+  * See custom config in Config section, below.
 * [Sublime Text](http://www.sublimetext.com)
+  * See custom config in Config section, below.
 * [Github](https://github.com)
 
 ## Configuration, Setup, and Customization:

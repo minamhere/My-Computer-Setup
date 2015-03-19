@@ -1,36 +1,24 @@
 # My Computer Setup:
 
 ## Applications To Install
-* Dropbox
-  * https://www.dropbox.com
-* Flux
-  * https://justgetflux.com
-* 1Password
-  * https://agilebits.com/downloads
+* [Dropbox](https://www.dropbox.com)
+* [Flux](https://justgetflux.com)
+* [1Password](https://agilebits.com/downloads)
   * License is saved in the 1Password database. Double click it to apply.
-* BetterTouchTool
-  * http://www.bettertouchtool.net
-* MacID
-  * http://macid.co
-* Alfred
-  * http://www.alfredapp.com
-* Coconut Battery
-  * http://www.coconut-flavour.com/coconutbattery/
-* CoRD
-  * http://cord.sourceforge.net
-* Firefox
-  * https://www.mozilla.org/en-US/firefox/
-* Chrome
-  * https://www.google.com/chrome/
+* [BetterTouchTool](http://www.bettertouchtool.net)
+* [MacID](http://macid.co)
+* [Alfred](http://www.alfredapp.com)
+* [Coconut Battery](http://www.coconut-flavour.com/coconutbattery/)
+* [CoRD](http://cord.sourceforge.net)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
+* [Chrome](https://www.google.com/chrome/)
 * Office
 * [Paprika](http://paprikaapp.com)
   * Download from Mac App Store
-* RDM
-  * [Direct Download](https://dl.dropbox.com/u/87351306/RDM.tar.gz) - [Reddit Discussion](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
-* Sublime Text
-  * http://www.sublimetext.com
-* Github
-  * https://github.com
+* [RDM](https://dl.dropbox.com/u/87351306/RDM.tar.gz)
+  * [Reddit Discussion](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
+* [Sublime Text](http://www.sublimetext.com)
+* [Github](https://github.com)
 
 ## Configuration, Setup, and Customization:
 

@@ -23,10 +23,10 @@
 * Chrome
   * https://www.google.com/chrome/
 * Office
-* Paprika
-  * http://paprikaapp.com
+* [Paprika](http://paprikaapp.com)
+  * Download from Mac App Store
 * RDM
-  * https://dl.dropbox.com/u/87351306/RDM.tar.gz [Source](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
+  * [Direct Download](https://dl.dropbox.com/u/87351306/RDM.tar.gz) - [Reddit Discussion](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
   * [Custom Resolutions with HiDPI](https://www.reddit.com/r/apple/comments/2ia242/enabling_1920_x_1200_hidpi_resolution_on_the_13/cl0c87l)
   	* Terminal> ioreg -lw0 | grep IODisplayPrefsKey 
   	* Look for: 

@@ -26,8 +26,8 @@
 * Paprika
   * http://paprikaapp.com
 * RDM
-  * https://dl.dropbox.com/u/87351306/RDM.tar.gz ( https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to )
-  * Custom Resolutions with HiDPI (https://www.reddit.com/r/apple/comments/2ia242/enabling_1920_x_1200_hidpi_resolution_on_the_13/cl0c87l :
+  * https://dl.dropbox.com/u/87351306/RDM.tar.gz [Source](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
+  * [Custom Resolutions with HiDPI](https://www.reddit.com/r/apple/comments/2ia242/enabling_1920_x_1200_hidpi_resolution_on_the_13/cl0c87l)
   	* Terminal> ioreg -lw0 | grep IODisplayPrefsKey 
   	* Look for: 
 	"IODisplayPrefsKey" = "IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelFramebuffer@0/display0/AppleBacklightDisplay-610-a018"
@@ -49,5 +49,6 @@
 ### Retina Display Configuration:
 
 ### Sublime Text Configuration:
-		http://stackoverflow.com/a/7693609
+  * Add syntax Highlighting for Jade
+    * http://stackoverflow.com/a/7693609
 

@@ -19,9 +19,9 @@
   * Download from Mac App Store
 * [RDM](https://dl.dropbox.com/u/87351306/RDM.tar.gz)
   * [Reddit Discussion](https://www.reddit.com/r/apple/comments/vi9yf/set_your_retina_macbook_pros_resolution_to)
-  * See custom config in Config section, below.
+  * [Custom Configuration, below](https://github.com/minamhere/My-Computer-Setup/blob/master/README.md#retina-display-configuration)
 * [Sublime Text](http://www.sublimetext.com)
-  * See custom config in Config section, below.
+  * [Custom Configuration, below](https://github.com/minamhere/My-Computer-Setup#sublime-text-configuration)
 * [Github](https://github.com)
 
 ## Configuration, Setup, and Customization:

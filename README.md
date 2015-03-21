@@ -11,6 +11,7 @@
 * [Alfred](http://www.alfredapp.com)
 * [Coconut Battery](http://www.coconut-flavour.com/coconutbattery/)
 * [CoRD](http://cord.sourceforge.net)
+* [iTerm2](http://iterm2.com)
 * [Firefox](https://www.mozilla.org/en-US/firefox/)
 * [Chrome](https://www.google.com/chrome/)
 * Office

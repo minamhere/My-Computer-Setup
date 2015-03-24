@@ -42,10 +42,12 @@
     * Reboot your machine and switch the resolution in RDM when you boot up.
 
 ### Sublime Text Configuration:
+  * [Install Package Control](https://packagecontrol.io/installation)
   * [Add syntax Highlighting for Jade](http://stackoverflow.com/a/7693609)
 ```
   cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
   git clone https://github.com/davidrios/jade-tmbundle Jade
 ```
-
+  * [Add better syntax highlighting for Node.js](https://github.com/Benvie/JavaScriptNext.tmLanguage#installation-and-use)
+  * 
 
